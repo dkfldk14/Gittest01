@@ -7,7 +7,8 @@ public class AppMain {
 
 			System.out.println("hello, world!");
 			
-			System.out.println("¼öÁ¤.. Ãß°¡µÊ");
+			System.out.println("Â¼Ã¶ÃÂ¤.. ÃƒÃŸÂ°Â¡ÂµÃŠ");
+              System.out.println("--");
 	}
 
 }
