@@ -7,16 +7,16 @@ public class AppMain {
 
 			System.out.println("hello, Git010!");
 			
-			System.out.println("Â¼Ã¶ÃÂ¤.. ÃƒÃŸÂ°Â¡ÂµÃŠ");
+			System.out.println("횂쩌횄쨋횄혖횂짚.. 횄�뮼꺟맡궰걘궰≥궰돤꺟�");
               System.out.println("--");
               
-<<<<<<< HEAD
-              System.out.println("���� bug ������. ");
-=======
+
+              System.out.println("나도 bug 수정함. ");
+
               System.out.println("bug fix");
 		
 		
->>>>>>> branch 'master' of https://github.com/dkfldk14/Gittest01
+
 	}
 
 }
