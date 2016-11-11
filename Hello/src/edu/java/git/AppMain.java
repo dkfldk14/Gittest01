@@ -10,7 +10,7 @@ public class AppMain {
 			System.out.println("Â¼Ã¶ÃÂ¤.. ÃƒÃŸÂ°Â¡ÂµÃŠ");
               System.out.println("--");
               
-              System.out.println("»õ·Î¿î ±â´ÉÀ» Ãß°¡ÇØ¹ö¸²..");
+              System.out.println("³ªµµ bug ¼öÁ¤ÇÔ. ");
 	}
 
 }
